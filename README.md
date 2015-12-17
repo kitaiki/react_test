@@ -1,1 +1,1 @@
-# React Study
+# ReactJS Study
